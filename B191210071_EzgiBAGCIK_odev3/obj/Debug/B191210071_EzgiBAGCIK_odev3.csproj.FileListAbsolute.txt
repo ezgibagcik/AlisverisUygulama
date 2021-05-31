@@ -1,0 +1,30 @@
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Form1.resources
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Properties.Resources.resources
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.GenerateResource.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csprojAssemblyReference.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe.config
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.pdb
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.pdb
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe.config
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.pdb
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csprojAssemblyReference.cache
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Form1.resources
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Properties.Resources.resources
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.GenerateResource.cache
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\Ezgi\Desktop\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe.config
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\bin\Debug\B191210071_EzgiBAGCIK_odev3.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csprojAssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Form1.resources
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.Properties.Resources.resources
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.GenerateResource.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.exe
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\ÖDEV3\B191210071_EzgiBAGCIK_odev3\B191210071_EzgiBAGCIK_odev3\obj\Debug\B191210071_EzgiBAGCIK_odev3.pdb
